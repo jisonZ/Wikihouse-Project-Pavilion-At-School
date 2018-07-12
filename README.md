@@ -5,7 +5,7 @@ The Pavilion is an open-space designed for public using. It adopted the WikiHous
 
 These files are also intended as starter files for architects, designers, engineers and others interested in getting to know how to use the WikiHouse WREN system within a full design.
 
-![alt tag](https://github.com/wikihouseproject/Microhouse/blob/master/microhouse_0.5_isoFull.jpg)
+![alt tag](https://github.com/jisonZ/Wikihouse-Project-Pavilion-At-School/blob/master/Pavilion.jpg)
 
 _Pavilion.dwg: Complete CNC cutting files for the building's structure
 
