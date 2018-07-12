@@ -11,6 +11,8 @@ _Pavilion.dwg: Complete CNC cutting files for the building's structure
 
 _Pavilion.skp: Sketchup 3D Model of the complete design including cladding, fitout and services
 
+The project was accomplished by Jason Zhang and Frank Duan from Beijing No.4 High School International Campus, under the direction of YuMing Bai from dotMake Co.
+
 # Terms of use
 
 By downloading these files or information you agree to the following terms and conditions.
